@@ -1,3 +1,5 @@
 #!/usr/bin/env python3
 
-print(hello_world)
+self = "hello_world"
+print(self)
+    
